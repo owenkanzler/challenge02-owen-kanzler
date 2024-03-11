@@ -51,7 +51,7 @@ nav .container {
 
 nav ul {
   display: flex;
-  gap: 2em;
+  gap: 4em;
 }
 
 nav ul a {
