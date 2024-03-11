@@ -16,7 +16,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.728em;
+  font-size: 1.44em;
   font-weight: 400;
   font-family: serif;
   font-style: italic;
@@ -145,7 +145,7 @@ h1 span {
 }
 
 .project-header {
-  width: 300px;
+  width: 275px;
   display: flex;
   flex-direction: column;
   gap: 0.5em;
